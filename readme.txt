@@ -2,7 +2,7 @@
 Contributors: samueldiethelm
 Tags: remote thumbnail, external thumbnail, thumbnail, remote featured image, div, background, featured image
 Requires at least: 3.1.0
-Tested up to: 5.4
+Tested up to: 5.4.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -33,3 +33,7 @@ No. They will be remotely referenced.
 
 = 1.0 =
 * Initial upload
+
+= 1.1 =
+* Cleanup
+* Updated tested version
